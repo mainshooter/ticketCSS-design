@@ -5,12 +5,13 @@ body {
 }
   #wrapper {
     text-align: center;
+    margin-top: 2em;
   }
   #content {
     width: 355px;
     margin: 0 auto;
     overflow: hidden;
-    border-radius: 42px
+    border-radius: 42px;
   }
   #titel h6 {
     font-weight: 300;
@@ -74,4 +75,23 @@ body {
  }
  .icon p {
     margin-top: 0px;
+ }
+ /* unvisited link */
+ a:link {
+     color: black;
+ }
+
+ /* visited link */
+ a:visited {
+     color: black;
+ }
+
+ /* mouse over link */
+ a:hover {
+     color: black;
+ }
+
+ /* selected link */
+ a:active {
+     color: black;
  }

@@ -5,7 +5,6 @@ body {
 }
   #wrapper {
     text-align: center;
-    margin-top: 2em;
   }
   #content {
     width: 355px;
@@ -34,7 +33,7 @@ body {
  }
  #buttom {
    background-color: #c0392b;
-   height: 380px;
+   height: 100%;
    padding: 0 17px;
  }
  #place {
